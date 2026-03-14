@@ -1,0 +1,5 @@
+venv
+.venv
+.claude
+.ipynb_checkpoints
+.nah.yaml
